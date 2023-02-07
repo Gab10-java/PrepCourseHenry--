@@ -1,2 +1,1 @@
-# PrepCourseHenry--
-Prueba del modulo 2
+Este proyecto es una prueba de repositorio de GitHub a mi Escritorio
